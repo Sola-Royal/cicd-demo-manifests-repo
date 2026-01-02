@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: abhishekf5/cicd-e2e:33
+        image: solaroyal/cicd-e2e:13
         ports:
         - containerPort: 8000
